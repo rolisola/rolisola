@@ -1,6 +1,6 @@
 # Hello There 👋
 
-I'm Vitor Rolisola, 4th year UNESP (Universidade Estadual Paulista "Júlio Mesquita Filho") student 
+I'm Vitor Rolisola, 4th year student at UNESP (Universidade Estadual Paulista "Júlio Mesquita Filho") 
 
 [![rolisola's GitHub stats](https://github-readme-stats.vercel.app/api?username=rolisola&count_private=true&show_icons=true&include_all_commits=false&bg_color=45,007a22,004e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
